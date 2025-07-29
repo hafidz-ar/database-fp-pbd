@@ -1,1 +1,7 @@
 # database-fp-pbd
+# Pemrograman Basis Data
+# Nama dan Nim Anggota Kelompok
+EKANANDA NAUFAL ARIF WICAKSANA 23.11.5387
+FARIS ANDI MUHAMMAD 23.11.5393
+HAFIDZ AR ROFI 23.11.5400
+LINA RAHMATI 23.11.5418
